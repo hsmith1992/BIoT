@@ -1,0 +1,19 @@
+{
+  "name": "biot",
+  "version": "1.0.0",
+  "description": "Blockchain IoT Prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hsmith1992/BIoT.git"
+  },
+  "author": "HS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hsmith1992/BIoT/issues"
+  },
+  "homepage": "https://github.com/hsmith1992/BIoT#readme"
+}
